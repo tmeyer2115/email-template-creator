@@ -53,6 +53,11 @@ export const Card: ComponentConfig<CardProps> = {
       options: Object.keys(Publishers).map(key => { return { label: key, value: key } })
     }
   },
+  defaultProps: {
+    title: "Please leave us a review!",
+    description: "Please leave a review on our website",
+    publisher: Publishers["First Party"]
+  },
   render: (props) => {
     return <CardInternal {...props} />
   }

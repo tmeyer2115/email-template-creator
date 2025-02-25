@@ -116,3 +116,8 @@
 .Heading--s {
   font-size: var(--puck-font-size-s);
 }
+
+.Image {
+  height: 356px;
+  width: 592px;
+}
