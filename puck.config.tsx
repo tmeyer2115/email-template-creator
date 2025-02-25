@@ -5,6 +5,17 @@ import { Space } from "./src/components/Space";
 import { Text } from "./src/components/Text";
 
 const config = {
+  categories: {
+    layout: {
+      components: ["Grid", "Flex", "Space"]
+    },
+    typography: {
+      components: ["Text"]
+    },
+    other: {
+      components: ["Card"]
+    }
+  },
   components: {
     Space,
     Text,
