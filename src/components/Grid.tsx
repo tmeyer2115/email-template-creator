@@ -31,6 +31,10 @@ export const Grid: ComponentConfig<GridProps> = {
       label: "Gap"
     }
   },
+  defaultProps: {
+    numColumns: 3,
+    gap: 24
+  },
   render: (props) => {
     return <GridInternal {...props} />;
   }

@@ -18,6 +18,9 @@ export const Space: ComponentConfig<SpaceProps> = {
       options: Object.keys(SpacingOptions).map(key => { return { label: key, value: key } })
     },
   },
+  defaultProps: {
+    size: SpacingOptions["96px"]
+  },
   render: ({ size, puck }) => {
     return (
       <div className="Space" ref={puck.dragRef} style={{ "--size": size } as any} />
