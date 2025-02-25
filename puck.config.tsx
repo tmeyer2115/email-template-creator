@@ -1,6 +1,7 @@
 import { Card } from "./src/components/Card";
 import { Flex } from "./src/components/Flex";
 import { Grid } from "./src/components/Grid";
+import { Heading } from "./src/components/Heading";
 import { Space } from "./src/components/Space";
 import { Text } from "./src/components/Text";
 
@@ -10,7 +11,7 @@ const config = {
       components: ["Grid", "Flex", "Space"]
     },
     typography: {
-      components: ["Text"]
+      components: ["Text", "Heading"]
     },
     other: {
       components: ["Card"]
@@ -21,7 +22,8 @@ const config = {
     Text,
     Card,
     Grid,
-    Flex
+    Flex,
+    Heading
   },
 };
 
