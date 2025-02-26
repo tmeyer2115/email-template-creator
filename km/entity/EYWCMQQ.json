@@ -1,0 +1,23 @@
+{
+  "$id": "EYWCMQQ",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Key West",
+      "countryCode": "US",
+      "line1": "1500 Reynolds Street",
+      "postalCode": "33040",
+      "region": "FL"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/eywcmqq-casa-marina-key-west/?SEO_id\u003dYEXTN-AMER-QQ-EYWCMQQ"
+    },
+    "mainPhone": "+13052963535",
+    "name": "Casa Marina Key West, Curio Collection by Hilton",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "PHXBMOL",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Phoenix",
+      "countryCode": "US",
+      "line1": "2400 East Missouri Avenue",
+      "postalCode": "85016",
+      "region": "AZ"
+    },
+    "mainPhone": "+16029556600",
+    "name": "Arizona Biltmore, LXR Hotels \u0026 Resorts",
+    "timezone": "America/Phoenix"
+  },
+  "entityType": "location",
+  "labels": []
+}

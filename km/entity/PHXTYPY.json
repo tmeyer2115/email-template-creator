@@ -1,0 +1,23 @@
+{
+  "$id": "PHXTYPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Tempe",
+      "countryCode": "US",
+      "line1": "108 E. University Drive",
+      "postalCode": "85281",
+      "region": "AZ"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/phxtypy-canopy-tempe-downtown/?SEO_id\u003dYEXTN-AMER-PY-PHXTYPY"
+    },
+    "mainPhone": "+14809686800",
+    "name": "Canopy by Hilton Tempe Downtown",
+    "timezone": "America/Phoenix"
+  },
+  "entityType": "location",
+  "labels": []
+}

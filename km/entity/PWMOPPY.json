@@ -1,0 +1,23 @@
+{
+  "$id": "PWMOPPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Portland",
+      "countryCode": "US",
+      "line1": "9 Center Street",
+      "postalCode": "04101",
+      "region": "ME"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/pwmoppy-canopy-portland-waterfront/?SEO_id\u003dYEXTN-AMER-PY-PWMOPPY"
+    },
+    "mainPhone": "+12077915000",
+    "name": "Canopy by Hilton Portland Waterfront",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

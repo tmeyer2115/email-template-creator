@@ -1,0 +1,23 @@
+{
+  "$id": "MSYPYPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New Orleans",
+      "countryCode": "US",
+      "line1": "1100 Tulane Avenue",
+      "postalCode": "70112",
+      "region": "LA"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/msypypy-canopy-new-orleans-downtown/?SEO_id\u003dYEXTN-AMER-PY-MSYPYPY"
+    },
+    "mainPhone": "+15043542850",
+    "name": "Canopy by Hilton New Orleans Downtown",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

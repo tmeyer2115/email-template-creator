@@ -1,0 +1,23 @@
+{
+  "$id": "KYLCUQQ",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Key Largo",
+      "countryCode": "US",
+      "line1": "97000 Overseas Highway",
+      "postalCode": "33037",
+      "region": "FL"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/kylcuqq-bakers-cay-resort-key-largo/?SEO_id\u003dYEXTN-AMER-QQ-KYLCUQQ"
+    },
+    "mainPhone": "+13058525553",
+    "name": "Baker\u0027s Cay Resort Key Largo, Curio Collection by Hilton",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

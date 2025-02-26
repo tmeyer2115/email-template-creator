@@ -1,0 +1,23 @@
+{
+  "$id": "PDXPEPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Portland",
+      "countryCode": "US",
+      "line1": "425 NW 9th Avenue",
+      "postalCode": "97209",
+      "region": "OR"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/pdxpepy-canopy-portland-pearl-district/?SEO_id\u003dYEXTN-AMER-PY-PDXPEPY"
+    },
+    "mainPhone": "+19713510230",
+    "name": "Canopy by Hilton Portland Pearl District",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

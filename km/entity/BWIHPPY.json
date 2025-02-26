@@ -1,0 +1,23 @@
+{
+  "$id": "BWIHPPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Baltimore",
+      "countryCode": "US",
+      "line1": "1215 Wills Street",
+      "postalCode": "21231",
+      "region": "MD"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/bwihppy-canopy-baltimore-harbor-point/?SEO_id\u003dYEXTN-AMER-PY-BWIHPPY"
+    },
+    "mainPhone": "+14434226679",
+    "name": "Canopy by Hilton Baltimore Harbor Point",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

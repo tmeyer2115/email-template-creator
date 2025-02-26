@@ -1,0 +1,23 @@
+{
+  "$id": "SFOPYPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "250 4th Street",
+      "postalCode": "94103",
+      "region": "CA"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/sfopypy-canopy-san-francisco-soma/?SEO_id\u003dYEXTN-AMER-PY-SFOPYPY"
+    },
+    "mainPhone": "+14155346500",
+    "name": "Canopy by Hilton San Francisco SoMa",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

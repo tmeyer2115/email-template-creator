@@ -1,0 +1,23 @@
+{
+  "$id": "PBICPPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "West Palm Beach",
+      "countryCode": "US",
+      "line1": "380 Trinity Place",
+      "postalCode": "33401",
+      "region": "FL"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/pbicppy-canopy-west-palm-beach-downtown/?SEO_id\u003dYEXTN-AMER-PY-PBICPPY"
+    },
+    "mainPhone": "+15616550404",
+    "name": "Canopy by Hilton West Palm Beach Downtown",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

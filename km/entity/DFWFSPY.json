@@ -1,0 +1,23 @@
+{
+  "$id": "DFWFSPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Frisco",
+      "countryCode": "US",
+      "line1": "4455 Frisco Green Ave",
+      "postalCode": "75034",
+      "region": "TX"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/dfwfspy-canopy-dallas-frisco-station/?SEO_id\u003dYEXTN-AMER-PY-DFWFSPY"
+    },
+    "mainPhone": "+14692006161",
+    "name": "Canopy by Hilton Dallas Frisco Station",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

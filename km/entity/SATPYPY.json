@@ -1,0 +1,23 @@
+{
+  "$id": "SATPYPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Antonio",
+      "countryCode": "US",
+      "line1": "123 N. Saint Marys St.",
+      "postalCode": "78205",
+      "region": "TX"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/satpypy-canopy-san-antonio-riverwalk/?SEO_id\u003dYEXTN-AMER-PY-SATPYPY"
+    },
+    "mainPhone": "+12104047516",
+    "name": "Canopy by Hilton San Antonio Riverwalk",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "GRRQQQQ",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Grand Rapids",
+      "countryCode": "US",
+      "line1": "187 Monroe NW",
+      "postalCode": "49503",
+      "region": "MI"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/grrqqqq-amway-grand-plaza/?SEO_id\u003dYEXTN-AMER-QQ-GRRQQQQ"
+    },
+    "mainPhone": "+16167742000",
+    "name": "Amway Grand Plaza, Curio Collection by Hilton",
+    "timezone": "America/Detroit"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "CLTPYPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Charlotte",
+      "countryCode": "US",
+      "line1": "4905 Barclay Downs Drive",
+      "postalCode": "28210",
+      "region": "NC"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/cltpypy-canopy-charlotte-southpark/?SEO_id\u003dYEXTN-AMER-PY-CLTPYPY"
+    },
+    "mainPhone": "+17045521715",
+    "name": "Canopy by Hilton Charlotte Southpark",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

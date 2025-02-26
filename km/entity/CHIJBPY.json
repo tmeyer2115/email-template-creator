@@ -1,0 +1,23 @@
+{
+  "$id": "CHIJBPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Chicago",
+      "countryCode": "US",
+      "line1": "226 West Jackson Blvd",
+      "postalCode": "60606",
+      "region": "IL"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/chijbpy-canopy-chicago-central-loop/?SEO_id\u003dYEXTN-AMER-PY-CHIJBPY"
+    },
+    "mainPhone": "+17738096750",
+    "name": "Canopy by Hilton Chicago Central Loop",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

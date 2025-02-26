@@ -71,6 +71,8 @@
   display: flex;
   flex-direction: column;
   width: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 @media (min-width: 768px) {
@@ -83,6 +85,9 @@
   display: flex;
   flex-wrap: wrap;
   height: 100%;
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(247, 250, 255) 100%);
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .Flex-item {
@@ -120,4 +125,5 @@
 .Image {
   height: 356px;
   width: 592px;
+  border-radius: 20px;
 }

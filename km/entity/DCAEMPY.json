@@ -1,0 +1,23 @@
+{
+  "$id": "DCAEMPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington, DC",
+      "countryCode": "US",
+      "line1": "1600 Rhode Island Avenue NW",
+      "postalCode": "20036",
+      "region": "DC"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/dcaempy-canopy-washington-dc-embassy-row/?SEO_id\u003dYEXTN-AMER-PY-DCAEMPY"
+    },
+    "mainPhone": "+12022938000",
+    "name": "Canopy by Hilton Washington DC Embassy Row",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

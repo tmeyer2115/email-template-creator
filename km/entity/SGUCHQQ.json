@@ -1,0 +1,23 @@
+{
+  "$id": "SGUCHQQ",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Springdale",
+      "countryCode": "US",
+      "line1": "281 Zion Park Blvd",
+      "postalCode": "84767",
+      "region": "UT"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/sguchqq-cliffrose-springdale/?SEO_id\u003dYEXTN-AMER-QQ-SGUCHQQ"
+    },
+    "mainPhone": "+14357723234",
+    "name": "Cliffrose Springdale, Curio Collection by Hilton",
+    "timezone": "America/Denver"
+  },
+  "entityType": "location",
+  "labels": []
+}

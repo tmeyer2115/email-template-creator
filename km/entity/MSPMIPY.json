@@ -1,0 +1,23 @@
+{
+  "$id": "MSPMIPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Minneapolis",
+      "countryCode": "US",
+      "line1": "708 S 3rd Street",
+      "postalCode": "55415",
+      "region": "MN"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/mspmipy-canopy-minneapolis-mill-district/?SEO_id\u003dYEXTN-AMER-PY-MSPMIPY"
+    },
+    "mainPhone": "+16123320696",
+    "name": "Canopy by Hilton Minneapolis Mill District",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

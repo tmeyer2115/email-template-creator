@@ -1,0 +1,19 @@
+{
+  "$id": "PHXDLHH",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Scottsdale",
+      "countryCode": "US",
+      "line1": "4747 N Goldwater Blvd",
+      "postalCode": "85251",
+      "region": "AZ"
+    },
+    "mainPhone": "+14809034747",
+    "name": "Caesars Republic Scottsdale, a Hilton Hotel",
+    "timezone": "America/Phoenix"
+  },
+  "entityType": "location",
+  "labels": []
+}

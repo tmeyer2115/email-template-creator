@@ -1,0 +1,23 @@
+{
+  "$id": "HSVHUQQ",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Huntsville",
+      "countryCode": "US",
+      "line1": "106 Jefferson Street South",
+      "postalCode": "35801",
+      "region": "AL"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/hsvhuqq-106-jefferson-huntsville/?SEO_id\u003dYEXTN-AMER-QQ-HSVHUQQ"
+    },
+    "mainPhone": "+12562880128",
+    "name": "106 Jefferson Huntsville, Curio Collection by Hilton",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

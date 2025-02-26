@@ -1,0 +1,19 @@
+{
+  "$id": "TYSIRUP",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Pigeon Forge",
+      "countryCode": "US",
+      "line1": "3171 Parkway",
+      "postalCode": "37863",
+      "region": "TN"
+    },
+    "mainPhone": "+18657744000",
+    "name": "Black Fox Lodge Pigeon Forge, Tapestry Collection by Hilton",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

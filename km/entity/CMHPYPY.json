@@ -1,0 +1,23 @@
+{
+  "$id": "CMHPYPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Columbus",
+      "countryCode": "US",
+      "line1": "77 East Nationwide Boulevard",
+      "postalCode": "43215",
+      "region": "OH"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/cmhpypy-canopy-columbus-downtown-short-north/?SEO_id\u003dYEXTN-AMER-PY-CMHPYPY"
+    },
+    "mainPhone": "+16142231400",
+    "name": "Canopy By Hilton Columbus Downtown Short North",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

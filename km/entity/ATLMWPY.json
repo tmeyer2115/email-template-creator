@@ -1,0 +1,23 @@
+{
+  "$id": "ATLMWPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Atlanta",
+      "countryCode": "US",
+      "line1": "1414 West Peachtree Street",
+      "postalCode": "30309",
+      "region": "GA"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/atlmwpy-canopy-atlanta-midtown/?SEO_id\u003dYEXTN-AMER-PY-ATLMWPY"
+    },
+    "mainPhone": "+14046851677",
+    "name": "Canopy by Hilton Atlanta Midtown",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

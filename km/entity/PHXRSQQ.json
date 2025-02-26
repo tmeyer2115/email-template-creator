@@ -1,0 +1,23 @@
+{
+  "$id": "PHXRSQQ",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Scottsdale",
+      "countryCode": "US",
+      "line1": "34631 N. Tom Darlington Drive",
+      "postalCode": "85262",
+      "region": "AZ"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/phxrsqq-boulders-resort-and-spa-scottsdale/?SEO_id\u003dYEXTN-AMER-QQ-PHXRSQQ"
+    },
+    "mainPhone": "+14804889009",
+    "name": "Boulders Resort \u0026 Spa Scottsdale, Curio Collection by Hilton",
+    "timezone": "America/Phoenix"
+  },
+  "entityType": "location",
+  "labels": []
+}

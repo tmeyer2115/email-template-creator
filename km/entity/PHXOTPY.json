@@ -1,0 +1,23 @@
+{
+  "$id": "PHXOTPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Scottsdale",
+      "countryCode": "US",
+      "line1": "7142 East 1st St",
+      "postalCode": "85251",
+      "region": "AZ"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/phxotpy-canopy-scottsdale-old-town/?SEO_id\u003dYEXTN-AMER-PY-PHXOTPY"
+    },
+    "mainPhone": "+14805903864",
+    "name": "Canopy by Hilton Scottsdale Old Town",
+    "timezone": "America/Phoenix"
+  },
+  "entityType": "location",
+  "labels": []
+}

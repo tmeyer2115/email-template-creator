@@ -1,0 +1,23 @@
+{
+  "$id": "FLLBMDT",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Fort Lauderdale",
+      "countryCode": "US",
+      "line1": "801 Seabreeze Blvd.",
+      "postalCode": "33316",
+      "region": "FL"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/fllbmdt-bahia-mar-fort-lauderdale-beach/?SEO_id\u003dYEXTN-AMER-DT-FLLBMDT"
+    },
+    "mainPhone": "+19547642233",
+    "name": "Bahia Mar Fort Lauderdale Beach - a DoubleTree by Hilton Hotel",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

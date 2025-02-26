@@ -1,0 +1,19 @@
+{
+  "$id": "SANRSHF",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Carlsbad",
+      "countryCode": "US",
+      "line1": "1 Ponto Road",
+      "postalCode": "92011",
+      "region": "CA"
+    },
+    "mainPhone": "+17606020800",
+    "name": "Cape Rey Carlsbad Beach, a Hilton Resort and Spa",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

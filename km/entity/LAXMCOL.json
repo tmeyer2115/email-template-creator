@@ -1,0 +1,19 @@
+{
+  "$id": "LAXMCOL",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "1224 Beverwil Dr",
+      "postalCode": "90035",
+      "region": "CA"
+    },
+    "mainPhone": "+13102772800",
+    "name": "Cameo Beverly Hills",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

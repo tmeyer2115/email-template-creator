@@ -1,0 +1,23 @@
+{
+  "$id": "AUSSKPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Austin",
+      "countryCode": "US",
+      "line1": "604 W 6th St",
+      "postalCode": "78701",
+      "region": "TX"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/ausskpy-canopy-austin-downtown/?SEO_id\u003dYEXTN-AMER-PY-AUSSKPY"
+    },
+    "mainPhone": "+15129913100",
+    "name": "Canopy by Hilton Austin Downtown",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

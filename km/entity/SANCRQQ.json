@@ -1,0 +1,23 @@
+{
+  "$id": "SANCRQQ",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Diego",
+      "countryCode": "US",
+      "line1": "401 W Ash Street",
+      "postalCode": "92101",
+      "region": "CA"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/sancrqq-carte-hotel-san-diego-downtown/?SEO_id\u003dYEXTN-AMER-QQ-SANCRQQ"
+    },
+    "mainPhone": "+16195469600",
+    "name": "Carte Hotel San Diego Downtown, Curio Collection by Hilton",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

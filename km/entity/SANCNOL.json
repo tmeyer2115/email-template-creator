@@ -1,0 +1,23 @@
+{
+  "$id": "SANCNOL",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Coronado",
+      "countryCode": "US",
+      "line1": "1277 R.H. Dana Place",
+      "postalCode": "92118",
+      "region": "CA"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/sancnol-beach-village-at-the-del/?SEO_id\u003dYEXTN-AMER-OL-SANCNOL"
+    },
+    "mainPhone": "+16195228809",
+    "name": "Beach Village at The Del, LXR Hotels \u0026 Resorts",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

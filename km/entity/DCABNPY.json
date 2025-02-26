@@ -1,0 +1,23 @@
+{
+  "$id": "DCABNPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "North Bethesda",
+      "countryCode": "US",
+      "line1": "940 Rose Avenue",
+      "postalCode": "20852",
+      "region": "MD"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/dcabnpy-canopy-washington-dc-bethesda-north/?SEO_id\u003dYEXTN-AMER-PY-DCABNPY"
+    },
+    "mainPhone": "+13018829400",
+    "name": "Canopy by Hilton Washington DC Bethesda North",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

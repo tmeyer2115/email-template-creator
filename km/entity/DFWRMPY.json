@@ -1,0 +1,23 @@
+{
+  "$id": "DFWRMPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Dallas",
+      "countryCode": "US",
+      "line1": "2950 Cityplace West Blvd",
+      "postalCode": "75204",
+      "region": "TX"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/dfwrmpy-canopy-dallas-uptown/?SEO_id\u003dYEXTN-AMER-PY-DFWRMPY"
+    },
+    "mainPhone": "+12145222929",
+    "name": "Canopy by Hilton Dallas Uptown",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

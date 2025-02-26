@@ -1,0 +1,23 @@
+{
+  "$id": "MEMCDPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Memphis",
+      "countryCode": "US",
+      "line1": "164 Union Avenue",
+      "postalCode": "38103",
+      "region": "TN"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/memcdpy-canopy-memphis-downtown-beale-street/?SEO_id\u003dYEXTN-AMER-PY-MEMCDPY"
+    },
+    "mainPhone": "+19014791001",
+    "name": "Canopy by Hilton Memphis Downtown Beale Street",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

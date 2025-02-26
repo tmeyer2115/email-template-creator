@@ -1,0 +1,19 @@
+{
+  "$id": "BTVCPUP",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Montpelier",
+      "countryCode": "US",
+      "line1": "100 State Street",
+      "postalCode": "05602",
+      "region": "VT"
+    },
+    "mainPhone": "+18022235252",
+    "name": "Capitol Plaza Hotel Montpelier, Tapestry Collection by Hilton",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

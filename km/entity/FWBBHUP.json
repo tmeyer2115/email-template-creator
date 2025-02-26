@@ -1,0 +1,19 @@
+{
+  "$id": "FWBBHUP",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Fort Walton Beach",
+      "countryCode": "US",
+      "line1": "380 Santa Rosa Blvd",
+      "postalCode": "32548",
+      "region": "FL"
+    },
+    "mainPhone": "+18502439444",
+    "name": "Beal House Fort Walton Beachfront, Tapestry Collection by Hilton",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

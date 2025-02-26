@@ -15,7 +15,7 @@ interface HeadingProps {
 
 function HeadingInternal({ align, text, size }: HeadingProps) {
   return (
-    <span style={{ display: "block", textAlign: align, width: "100%" }} className={`Heading--${size.toLocaleLowerCase()}`}>
+    <span style={{ display: "block", textAlign: align, width: "100%" }} className={`Heading Heading--${size.toLocaleLowerCase()}`}>
       {text}
     </span>
   );

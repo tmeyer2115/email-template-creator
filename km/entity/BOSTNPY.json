@@ -1,0 +1,23 @@
+{
+  "$id": "BOSTNPY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Boston",
+      "countryCode": "US",
+      "line1": "99 Blackstone Street",
+      "postalCode": "02109",
+      "region": "MA"
+    },
+    "featuredMessage": {
+      "description": "SAVE 50% ON SUNDAY NIGHTS",
+      "url": "https://www.hilton.com/en/hotels/bostnpy-canopy-boston-downtown/?SEO_id\u003dYEXTN-AMER-PY-BOSTNPY"
+    },
+    "mainPhone": "+18577584410",
+    "name": "Canopy by Hilton Boston Downtown",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}
