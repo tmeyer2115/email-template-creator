@@ -1,4 +1,5 @@
 import { ComponentConfig } from "@measured/puck";
+import textFieldResolver from "../common/TextFieldResolver";
 
 interface TextProps {
   align: "left" | "center" | "right";
@@ -52,6 +53,15 @@ export const Text: ComponentConfig<TextProps> = {
       ],
     },
     maxWidth: { type: "text" }
+  },
+  resolveData: async ({ props }) => {
+    const resolvedContent = /\${([a-zA-Z]+\.?[a-zA-Z]+)}/.test(props.text) ? textFieldResolver(props.text) : props.text;
+    return {
+      props: {
+        ...props,
+        text: resolvedContent
+      },
+    };
   },
   defaultProps: {
     align: "left",
