@@ -1,3 +1,4 @@
+import { Button } from "./src/components/Button";
 import { Card } from "./src/components/Card";
 import { Flex } from "./src/components/Flex";
 import { Grid } from "./src/components/Grid";
@@ -15,7 +16,7 @@ const config = {
       components: ["Text", "Heading"]
     },
     other: {
-      components: ["Card", "Image"],
+      components: ["Card", "Image", "Button"],
     }
   },
   components: {
@@ -25,7 +26,8 @@ const config = {
     Grid,
     Flex,
     Heading,
-    Image
+    Image,
+    Button
   },
 };
 

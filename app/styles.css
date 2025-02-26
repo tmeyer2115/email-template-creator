@@ -127,3 +127,37 @@
   width: 592px;
   border-radius: 20px;
 }
+
+.Button {
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: var(--puck-color-white);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  letter-spacing: 0.05ch;
+  font-family: var(--puck-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  box-sizing: border-box;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 50ms ease-in;
+  cursor: pointer;
+  white-space: nowrap;
+  margin: 0;
+  padding-bottom: 7px;
+  padding-inline-start: 19px;
+  padding-inline-end: 19px;
+  padding-top: 7px;
+}
+
+.Button--primary {
+  background: var(--puck-color-azure-04);
+}
+
+.Button--secondary {
+  border: 1px solid currentColor;
+  color: currentColor;
+}
